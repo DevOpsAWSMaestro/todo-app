@@ -17,3 +17,4 @@ or Run by docker compose
 
 test
 
+or RUN by docker compose
